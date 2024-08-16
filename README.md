@@ -1,0 +1,1 @@
+1. To install, run:```conda env create -f environment.yml```2. Activate the new environment```conda activate analyze_speeches```3. Run the setup.py script```python setup.py```4. Run the main script to view the dashboard```python main.py```
